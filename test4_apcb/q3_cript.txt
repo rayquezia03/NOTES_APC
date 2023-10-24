@@ -1,0 +1,2 @@
+{'id': '1', 'nome': 'ana', 'celular': '982569878', 'email': 'ana@gmail.com', 'senha': '5994471abb01112afcc18159f6cc74b4f511b99806da59b3caf5a9c173cacfc5'}
+{'id': '2', 'nome': 'bob', 'celular': '998784523', 'email': 'bob@gmail.com', 'senha': '5e4946cea7b83d754a6cab5072f8450b5ec1f824bea175db512aa0614dd76f09'}

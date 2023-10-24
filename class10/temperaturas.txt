@@ -1,0 +1,12 @@
+janeiro, 30
+fevereiro, 55
+marco, 10
+abril, 30
+maio, 12
+junho, 20
+julho, 23
+agosto, 11
+setembro, 22
+outubro, 88
+novembro, 77
+dezembro, 35
